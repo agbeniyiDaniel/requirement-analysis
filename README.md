@@ -3,31 +3,8 @@ This repository is dedicated to exploring the process of requirement analysis in
 
 ## What is Requirement Analysis?
 
-Library
-3
 You said:
-Create a new GitHub repository named requirement-analysis. Initialize the repository with a README.md file. Add a title to the README.md file: “Requirement Analysis in Software Development.” Write a brief introduction explaining the purpose of this repository. help me with the last part only
-ChatGPT said:
-Sure! Here's a brief introduction you can add to your README.md file under the title:
-
-Requirement Analysis in Software Development
-This repository is dedicated to exploring the process of requirement analysis in software development. It serves as a resource for understanding how to gather, document, and manage software requirements effectively. The content includes examples, best practices, and tools used to ensure that the final product meets user needs and project goals.
-
-Would you like help expanding it with sections like "Contents" or "How to Use"?
-
-You said:
- Define Requirement Analysis
-mandatory
-Objective: Explain the concept of Requirement Analysis.
-
-Instructions:
-
-In the README.md file, create a new section titled “What is Requirement Analysis?”
-Write a detailed explanation of Requirement Analysis, including its importance in the software development lifecycle (SDLC).
-ChatGPT said:
-Certainly! Here’s a section you can add to your README.md file:
-
-What is Requirement Analysis?
+ Define Requirement Analysis?
 Requirement Analysis is the process of identifying, documenting, and managing the needs and expectations of stakeholders for a software system. It is a crucial phase in the Software Development Life Cycle (SDLC) that ensures the final product aligns with business objectives and user needs.
 
 During this phase, software engineers work closely with stakeholders—including clients, users, and business analysts—to gather detailed information about the system's intended functions, performance criteria, and constraints. The process involves techniques such as interviews, surveys, document analysis, and use case modeling.
