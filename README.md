@@ -29,22 +29,22 @@ By clearly documenting user needs and system expectations, requirement analysis 
 -Reduces Development Costs and Rework:
 Identifying and addressing potential issues early in the development cycle is much more cost-effective than fixing problems later. A thorough analysis helps detect missing or conflicting requirements before any code is written, minimizing costly rework.
 
--Improves Product Quality and User Satisfaction:
+- Improves Product Quality and User Satisfaction:
 When a system is built according to well-defined and validated requirements, it is more likely to function as intended and meet user needs. This results in a higher-quality product, better user experience, and increased customer satisfaction.
 
 ## Key Activities in Requirement Analysis
 Requirement Analysis involves several structured activities to ensure a complete and accurate understanding of what the software system must achieve. The five key activities are:
 
--Requirement Gathering
+- Requirement Gathering
 This is the initial step where information is collected from various stakeholders such as clients, users, and subject matter experts. It focuses on understanding the broad needs and high-level goals of the system.
 
--Requirement Elicitation
+- Requirement Elicitation
 In this stage, deeper insights are drawn using techniques like interviews, questionnaires, workshops, observation, and brainstorming. The goal is to uncover hidden needs, expectations, and constraints.
 
--Requirement Documentation
+- Requirement Documentation
 All collected requirements are organized and recorded in a clear and structured format. Common documentation includes Software Requirement Specifications (SRS), user stories, or use cases, making it easier for teams to reference and implement.
 
--Requirement Analysis and Modeling
+- Requirement Analysis and Modeling
 This activity involves examining the requirements to ensure they are complete, consistent, feasible, and unambiguous. Models such as data flow diagrams, entity-relationship diagrams, or use case diagrams may be created to visualize the system.
 
 -Requirement Validation
@@ -58,22 +58,22 @@ Functional requirements define the specific behaviors, functions, and operations
 
 Examples for a Hotel Booking Management System:
 
--User Registration and Authentication:
+- User Registration and Authentication:
 Users should be able to create accounts, log in, and manage their profiles securely.
 
--Hotel Search Functionality:
+- Hotel Search Functionality:
 Users can search for hotels based on criteria such as location, check-in/check-out dates, number of guests, and amenities.
 
--Room Booking:
+- Room Booking:
 Users can select available rooms, view pricing, and make reservations for specific dates.
 
--Payment Processing:
+- Payment Processing:
 The system should handle payments through various methods, including credit/debit cards and digital wallets.
 
--Booking Management:
+- Booking Management:
 Users can view, modify, or cancel their bookings, and receive confirmation notifications.
 
--Host Management Portal:
+- Host Management Portal:
 Hotel owners or hosts can list their properties, manage room availability, set pricing, and view booking statistics.
 
 ### Non-functional Requirements
@@ -81,22 +81,22 @@ Non-functional requirements specify the quality attributes of a system, such as 
 
 Examples for a Hotel Booking Management System:
 
--Performance:
+- Performance:
 The system should handle a high number of concurrent users, especially during peak booking periods, without significant degradation in response time.
 
--Scalability:
+- Scalability:
 The architecture should support scaling to accommodate growth in user base and data volume, ensuring consistent performance.
 
--Availability:
+- Availability:
 The system should be highly available, aiming for minimal downtime to ensure users can access services at any time.
 
--Security:
+- Security:
 User data, including personal and payment information, must be protected through encryption and secure authentication mechanisms.
 
--Usability:
+- Usability:
 The user interface should be intuitive and user-friendly, facilitating easy navigation and interaction for users of varying technical proficiency.
 
--Maintainability:
+- Maintainability:
 The system should be designed in a modular fashion to allow for easy updates, bug fixes, and integration of new features.
 
 ## Use Case Diagrams.
@@ -106,4 +106,5 @@ The system should be designed in a modular fashion to allow for easy updates, bu
  - Provide a clear visual representation of system functionalities.
  - Help in identifying and organizing system requirements.
  - Facilitate communication among stakeholders and development team.
+![Use Case Image](alx-booking-uc.png)
 
