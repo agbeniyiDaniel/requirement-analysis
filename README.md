@@ -23,10 +23,10 @@ In essence, requirement analysis lays the foundation for a successful software p
 ## Why is Requirement Analysis Important?
 Requirement Analysis is a foundational step in the Software Development Life Cycle (SDLC), and its significance cannot be overstated. Here are three key reasons why it is critical:
 
--Prevents Miscommunication and Misunderstanding:
+- Prevents Miscommunication and Misunderstanding:
 By clearly documenting user needs and system expectations, requirement analysis ensures that all stakeholders—developers, clients, and end-users—are on the same page. This reduces the chances of confusion, misaligned expectations, and project delays.
 
--Reduces Development Costs and Rework:
+- Reduces Development Costs and Rework:
 Identifying and addressing potential issues early in the development cycle is much more cost-effective than fixing problems later. A thorough analysis helps detect missing or conflicting requirements before any code is written, minimizing costly rework.
 
 - Improves Product Quality and User Satisfaction:
@@ -107,4 +107,19 @@ The system should be designed in a modular fashion to allow for easy updates, bu
  - Help in identifying and organizing system requirements.
  - Facilitate communication among stakeholders and development team.
 ![Use Case Image](alx-booking-uc.png)
+
+## Acceptance Criteria.
+### What is Acceptance Criteria?
+ - Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+### Benefits of Acceptance Criteria:
+ - Ensure all parties have a clear understanding of feature requirements.
+ - Provide a basis for testing and validation.
+ - Help in maintaining quality and meeting user expectations.Acceptance Criteria for Checkout Feature
+### Acceptance Criteria for Checkout Feature
+Scenario: Successful Payment Processing
+Given the user has selected a room and proceeded to checkout, When they enter valid payment details and confirm the booking, Then the system should process the payment and generate a booking confirmation.
+
+Scenario: Invalid Payment Details
+Given the user has entered incorrect or incomplete payment details, When they attempt to submit the payment, Then the system should display an error message and prompt the user to enter correct details.
+
 
