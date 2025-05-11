@@ -98,3 +98,12 @@ The user interface should be intuitive and user-friendly, facilitating easy navi
 
 -Maintainability:
 The system should be designed in a modular fashion to allow for easy updates, bug fixes, and integration of new features.
+
+## Use Case Diagrams.
+### What are Use Case Diagrams?
+ - Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+### Benefits of Use Case Diagrams:
+ - Provide a clear visual representation of system functionalities.
+ - Help in identifying and organizing system requirements.
+ - Facilitate communication among stakeholders and development team.
+
